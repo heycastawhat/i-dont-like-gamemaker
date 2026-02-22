@@ -1,0 +1,15 @@
+{
+  "FolderOrderSettings":[
+    {"name":"group1","order":1,"path":"folders/group1.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oFlag","order":9,"path":"objects/oFlag/oFlag.yy",},
+    {"name":"oGrass","order":5,"path":"objects/oGrass/oGrass.yy",},
+    {"name":"oPlayer","order":3,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"oSpike","order":7,"path":"objects/oSpike/oSpike.yy",},
+    {"name":"sFlag","order":8,"path":"sprites/sFlag/sFlag.yy",},
+    {"name":"sGrass","order":4,"path":"sprites/sGrass/sGrass.yy",},
+    {"name":"sPlayer","order":2,"path":"sprites/sPlayer/sPlayer.yy",},
+    {"name":"sSpike","order":6,"path":"sprites/sSpike/sSpike.yy",},
+  ],
+}
